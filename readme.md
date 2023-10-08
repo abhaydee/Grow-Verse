@@ -65,3 +65,8 @@ The GrowVerse Education Platform is designed to provide users with an innovative
 
 Frontend : npm install & npm start - from the frontend folder
 smartcontracts : npm install 
+
+![WhatsApp Image 2023-10-08 at 11 52 59 AM](https://github.com/abhaydee/Grow-Verse/assets/20876434/abe299d4-bb6a-4be5-b193-c7cc7854b3ee)
+![Uploading WhatsApp Image 2023-10-08 at 11.52.59 AM.jpeg…]()
+
+
